@@ -2,7 +2,7 @@
 
 <h1 align="center"> Drum-Kit💥</h1>
 
-**[Drum Kit  👉](https://github.com/mukeshdani/Drum-Kit-)** *Using HTML , CSS and Java Script *
+**[Drum Kit  👉](https://github.com/mukeshdani/Drum-Kit-)**  *Using HTML , CSS and Java Script*
 
 <div align="center">
 
